@@ -6,3 +6,4 @@ good ,nice.
 版本1
 版本2
 版本2
+branchlaern：master指针在branch分支添加新的版本时的指向是不会改变的。
